@@ -12,7 +12,7 @@ The code is written in Python 3.x with the following dependencies:
 - joblib 0.15.1
 
 # Data
-The data should be downloaded from [x], and put under the main directory. Basically the directory structure should be like this:
+The data should be downloaded from [this](https://tuni-my.sharepoint.com/:u:/r/personal/thanh_tran_tuni_fi/Documents/DONOTREMOVE/SIPL_data.tar.gz?csf=1&web=1&e=nmDf6X), and put under the main directory. Basically the directory structure should be like this:
 
 ``` 
 SIPL/
@@ -26,3 +26,7 @@ SIPL/
     │    ...
 ```
 
+# Contact
+Any inquiry can be sent to thanh.tran@tuni.fi or viebboy@gmail.com
+
+# Citation
