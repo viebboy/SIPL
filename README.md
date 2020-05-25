@@ -16,8 +16,8 @@ The data should be downloaded from [x], and put under the main directory. Basica
 
 ``` 
 SIPL/
-|   README.md
-|   data/
-|   code/
+│   README.md
+└───data/
+└───code/
 ```
 
