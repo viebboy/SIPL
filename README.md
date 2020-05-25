@@ -18,6 +18,11 @@ The data should be downloaded from [x], and put under the main directory. Basica
 SIPL/
 │   README.md
 └───data/
+    │    caltech256_x_test.npy
+    │ 	 caltech256_x_train.npy
+    │	 ...   
 └───code/
+    │    exp_configurations.py
+    │    ...
 ```
 
